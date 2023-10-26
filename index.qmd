@@ -2,6 +2,9 @@
 title: "Clemente T. Sánchez"
 ---
 
+:::: {.columns}
+
+::: {.column width="70%"}
 I am a PhD student in the Department of Political Science at the Massachusetts Institute of Technology.
 
 My main fields are Comparative Politics and Methodology. In particular, I am interested in studying the relationship between environmental enforcement and state building, with a regional emphasis in Latin America.
@@ -9,3 +12,10 @@ My main fields are Comparative Politics and Methodology. In particular, I am int
 I received my BA in Political Science from the Pontificia Universidad Católica de Chile (PUC-Chile).
 
 (This website is a work-in-progress)
+:::
+
+::: {.column width="30%"}
+![](images/official_photo.jpg)
+:::
+
+::::
