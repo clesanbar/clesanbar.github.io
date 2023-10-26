@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "personal_website"
+  title: "Clemente T. Sánchez"
   navbar:
     left:
       - href: index.qmd

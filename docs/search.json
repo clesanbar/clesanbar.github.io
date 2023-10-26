@@ -1,16 +1,30 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "personal_website",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "(This section is under construction)"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Clemente T. Sánchez",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I am a PhD student in the Department of Political Science at the Massachusetts Institute of Technology.\nMy main fields are Comparative Politics and Methodology. In particular, I am interested in studying the relationship between environmental enforcement and state building, with a regional emphasis in Latin America.\nI received my BA in Political Science from the Pontificia Universidad Católica de Chile (PUC-Chile).\n(This website is a work-in-progress)"
+  },
+  {
+    "objectID": "pictures.html",
+    "href": "pictures.html",
+    "title": "Pictures",
+    "section": "",
+    "text": "(This section is under construction)"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "(This section is under construction)"
   }
 ]

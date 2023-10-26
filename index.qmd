@@ -1,11 +1,11 @@
 ---
-title: "personal_website"
+title: "Clemente T. Sánchez"
 ---
 
-This is a Quarto website.
+I am a PhD student in the Department of Political Science at the Massachusetts Institute of Technology.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My main fields are Comparative Politics and Methodology. In particular, I am interested in studying the relationship between environmental enforcement and state building, with a regional emphasis in Latin America.
 
-```{r}
-1 + 1
-```
+I received my BA in Political Science from the Pontificia Universidad Católica de Chile (PUC-Chile).
+
+(This website is a work-in-progress)
