@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Clemente T Sánchez"
+  description: "Academic website for Clemente T Sánchez, a PhD student in the Department of Political Science at the Massachusetts Institute of Technology."
+  page-footer: "Cities gleam with radiance and charm, and the whole earth has been beautified like a garden (Aristides 154 CE, *The Roman Oration*)"
   navbar:
     right:
       - href: index.qmd
@@ -12,6 +14,8 @@ website:
         text: research
       - href: data.qmd
         text: data
+      - href: maps.qmd
+        text: maps
       - href: CV.pdf
         text: cv
       - href: pictures.qmd
