@@ -4,7 +4,7 @@ title: "Clemente T. Sánchez"
 
 :::: columns
 ::: {.column width="70%"}
-I am a PhD student in the Department of Political Science at the Massachusetts Institute of Technology.
+I am a PhD student in the [Department of Political Science](https://polisci.mit.edu) at the Massachusetts Institute of Technology.
 
 My main fields are Comparative Politics and Methodology. In particular, I am interested in studying the relationship between environmental enforcement and state building, with a regional emphasis in Latin America.
 

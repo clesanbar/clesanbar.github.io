@@ -4,18 +4,16 @@ title: "Contact"
 
 :::: columns
 ::: {.column width="70%"}
-<br/><br/>
+<br/>
 
 **MIT website**: [Clemente T. Sánchez](https://polisci.mit.edu/people/clemente-t-sanchez)
 
 **LinkedIn**: [clementetsanchez](https://www.linkedin.com/in/clementetsanchez/)
 
-<br/><br/>
-
-Write me at 
+<br/>
 
 ```{r, echo=FALSE}
-cat("sanchezb@mit.edu")
+cat("email me at sanchezb@mit.edu")
 ```
 :::
 

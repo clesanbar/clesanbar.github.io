@@ -5,17 +5,21 @@ project:
 website:
   title: "Clemente T Sánchez"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: about
       - href: research.qmd
         text: research
-      - href: cv.qmd
+      - href: data.qmd
+        text: data
+      - href: CV.pdf
         text: cv
       - href: pictures.qmd
         text: pictures
       - href: contact.qmd
         text: contact
+  favicon: images/favicon.png
+  search: false
 
 format:
   html:

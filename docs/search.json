@@ -11,7 +11,7 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "MIT website: Clemente T. Sánchez\nLinkedIn: clementetsanchez\n\nWrite me at\n\n\nsanchezb@mit.edu"
+    "text": "MIT website: Clemente T. Sánchez\nLinkedIn: clementetsanchez\n\n\n\nemail me at sanchezb@mit.edu"
   },
   {
     "objectID": "index.html",
@@ -28,9 +28,9 @@
     "text": "(This section is under construction)"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data",
     "section": "",
     "text": "(This section is under construction)"
   }
