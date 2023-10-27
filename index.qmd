@@ -2,8 +2,7 @@
 title: "Clemente T. Sánchez"
 ---
 
-:::: {.columns}
-
+:::: columns
 ::: {.column width="70%"}
 I am a PhD student in the Department of Political Science at the Massachusetts Institute of Technology.
 
@@ -17,5 +16,4 @@ I received my BA in Political Science from the Pontificia Universidad Católica 
 ::: {.column width="30%"}
 ![](images/official_photo.jpg)
 :::
-
 ::::

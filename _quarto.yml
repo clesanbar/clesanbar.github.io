@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Clemente T. Sánchez"
+  title: "Clemente T Sánchez"
   navbar:
     left:
       - href: index.qmd
@@ -14,12 +14,14 @@ website:
         text: cv
       - href: pictures.qmd
         text: pictures
+      - href: contact.qmd
+        text: contact
 
 format:
   html:
-    theme: cosmo
+    theme: journal
     css: styles.css
     toc: true
 
-editor: visual
+editor: source
 

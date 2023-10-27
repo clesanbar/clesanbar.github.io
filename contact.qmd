@@ -1,0 +1,25 @@
+---
+title: "Contact"
+---
+
+:::: columns
+::: {.column width="70%"}
+<br/><br/>
+
+**MIT website**: [Clemente T. Sánchez](https://polisci.mit.edu/people/clemente-t-sanchez)
+
+**LinkedIn**: [clementetsanchez](https://www.linkedin.com/in/clementetsanchez/)
+
+<br/><br/>
+
+Write me at 
+
+```{r, echo=FALSE}
+cat("sanchezb@mit.edu")
+```
+:::
+
+::: {.column width="30%"}
+![](images/official_photo.jpg)
+:::
+::::
