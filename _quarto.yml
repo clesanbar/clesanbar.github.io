@@ -20,8 +20,6 @@ website:
         text: cv
       - href: pictures.qmd
         text: pictures
-      - href: contact.qmd
-        text: contact
   favicon: images/favicon.png
   search: false
 
@@ -29,7 +27,7 @@ format:
   html:
     theme: journal
     css: styles.css
-    toc: true
+    toc: false
 
 editor: source
 

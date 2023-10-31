@@ -30,7 +30,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -54,7 +53,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -94,10 +93,6 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./pictures.html" rel="" target="">
  <span class="menu-text">pictures</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./contact.html" rel="" target="">
- <span class="menu-text">contact</span></a>
-  </li>  
 </ul>
             <div class="quarto-navbar-tools">
 </div>
@@ -109,44 +104,48 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
+<div class="quarto-about-trestles">
+  <div class="about-entity">
+    <img src="images/official_photo.jpg" class="about-image
+  rounded " style="width: 20em;">
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Clemente T. Sánchez</h1>
 </div>
-
-
-
 <div class="quarto-title-meta">
-
-    
-  
-    
   </div>
-  
-
 </header>
-
-<div class="columns">
-<div class="column" style="width:70%;">
+    <div class="about-links">
+  <a href="https://github.com/clesanbar" class="about-link" rel="" target="">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">Github</span>
+  </a>
+  <a href="https://www.linkedin.com/in/clementetsanchez/" class="about-link" rel="" target="">
+    <i class="bi bi-linkedin"></i>
+     <span class="about-link-text">LinkedIn</span>
+  </a>
+  <a href="mailto:sanchezb@mit.edu" class="about-link" rel="" target="">
+    <i class="bi bi-envelope-at"></i>
+     <span class="about-link-text">Email</span>
+  </a>
+</div>
+  </div>
+  <div class="about-contents"><main class="content" id="quarto-document-content">
+<section id="hello-there" class="level1">
+<h1>Hello there!</h1>
 <p>I am a PhD student in the <a href="https://polisci.mit.edu">Department of Political Science</a> at the Massachusetts Institute of Technology.</p>
 <p>My main fields are Comparative Politics and Methodology. In particular, my research focuses on the relationship between environmental enforcement and state building, with a regional emphasis in Latin America. I also have ongoing interests in bureaucratic politics, causal inference, and frontier regions.</p>
 <p>I am the proud recipient of the <a href="https://luksicscholars.org/en/program/mit-political-science-luksic-fellowship/">Luksic Fellowship</a> awarded by the Luksic Scholars Foundation.</p>
 <p>I received my BA in Political Science from the Pontificia Universidad Católica de Chile (PUC-Chile).</p>
 <p>(This website is a work-in-progress)</p>
-</div><div class="column" style="width:30%;">
-<p><img src="images/official_photo.jpg" class="img-fluid"></p>
+
+
+</section>
+</main></div>
 </div>
-</div>
-
-
-
-</main> <!-- /main -->
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -167,13 +166,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
