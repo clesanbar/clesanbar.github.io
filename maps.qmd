@@ -2,4 +2,30 @@
 title: "Maps"
 ---
 
-(This section is under construction)
+::::: {.column-screen-inset}
+
+:::: {.columns}
+
+:::{.column width="50%"}
+## Brazil
+
+
+::: {layout-nrows=2}
+
+![Slavery and bureaucratic capacity in Brazil](images/maps_brazil_1.png){width=600 fig-align="left"}
+
+![Deforestation and environmental protection in the Brazilian Amazon](images/maps_brazil_2.png){width=600 fig-align="left"}
+:::
+
+:::
+
+:::{.column width="50%"}
+## Colombia
+![Terrorism and coercive capacity in Colombia](images/maps_colombia.png){width=600 fig-align="right"}
+
+## Bolivia
+![Electoral outcomes and infrastructure investment in Bolivia](images/maps_bolivia.png){width=600 fig-align="right"}
+
+:::
+::::
+:::::
