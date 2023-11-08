@@ -6,8 +6,11 @@ about:
   image-shape: rounded
   links:
     - icon: github
-      text: Github
+      text: GitHub
       href: https://github.com/clesanbar
+    - icon: chat-square-quote
+      text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=7BHbxTYAAAAJ
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/clementetsanchez/
