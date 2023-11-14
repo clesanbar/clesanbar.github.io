@@ -2,6 +2,8 @@
 title: "Maps"
 ---
 
+I really like making maps! The tools that I rely on are QGIS and the `sf` package for R.
+
 ::::: {.column-screen-inset}
 
 :::: {.columns}
