@@ -2,7 +2,7 @@
 title: "Maps"
 ---
 
-I really like making maps! I usually rely on QGIS and the `sf` package for R for making maps.
+I really like making maps! I usually rely on QGIS and the `sf` package for R for creating them.
 
 ::::: {.column-screen-inset}
 
