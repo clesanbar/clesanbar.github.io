@@ -12,8 +12,6 @@ website:
         text: about
       - href: research.qmd
         text: research
-      - href: data.qmd
-        text: data
       - href: maps.qmd
         text: maps
       - href: CV.pdf
