@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1700109242 "CV.tex" "CV.pdf" "CV" 1700109243 0
+["pdflatex"] 1700926762 "CV.tex" "CV.pdf" "CV" 1700926763 0
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -48,9 +48,6 @@
   "/usr/local/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty" 1580683321 5159 892429808d9e0e2b3548aaefd9a06ed0 ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/base/size12.clo" 1601675358 8450 6fd3588c0e9d06f6f56c6cf4f7246466 ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/dirtytalk/dirtytalk.sty" 1290383540 1915 75d8498f106e3f673b6267693e944869 ""
-  "/usr/local/texlive/2021/texmf-dist/tex/latex/everysel/everysel-2011-10-28.sty" 1611097190 4713 e2c43615329c83d785f28c2f83beaed5 ""
-  "/usr/local/texlive/2021/texmf-dist/tex/latex/everysel/everysel.sty" 1611267406 2884 f2be79b292643c74698be4bc8c72853f ""
-  "/usr/local/texlive/2021/texmf-dist/tex/latex/footmisc/footmisc.sty" 1312311212 25776 d28bd6d82f168f8cb2268584b67a2a98 ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty" 1578002852 41601 9cf6c5257b1bc7af01a58859749dd37a ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg" 1459978653 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def" 1601931164 19103 48d29b6e2a64cb717117ef65f107b404 ""
@@ -66,7 +63,6 @@
   "/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1616101731 27164 3d5f7887a89df4eb2f6e86ba26ef3254 ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty" 1575499565 5766 13a9e8766c47f30327caf893ece86ac8 ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/nopageno/nopageno.sty" 1273161841 947 32f9abe6276a11a5422e521974f546b6 ""
-  "/usr/local/texlive/2021/texmf-dist/tex/latex/ragged2e/ragged2e.sty" 1612650535 9204 2f0aef9fbe22be710da148fcc4b33ddf ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty" 1576624809 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1575674187 9715 b051d5b493d9fe5f4bc251462d039e5f ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/tools/multicol.sty" 1580683321 31532 04852e45d7c17cb384689d2f83b628d3 ""
@@ -76,9 +72,9 @@
   "/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1616695603 5169178 a2ce6e2d73f603b690db6777d06dbccb ""
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1621523930 2724741 ec0e79dfedd46687394e4dbfa300fa2b ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "CV.aux" 1700109243 686 4ce905362b6645b598ea182482e9aeed "pdflatex"
-  "CV.out" 1700109242 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "CV.tex" 1700109242 6589 6e671a7dad85a4c4c80c56a74010eb05 ""
+  "CV.aux" 1700926763 686 4ce905362b6645b598ea182482e9aeed "pdflatex"
+  "CV.out" 1700926762 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "CV.tex" 1700926761 6500 067345dd1890ebeb0ea4d288cd7f3f15 ""
   (generated)
   "CV.aux"
   "CV.log"
