@@ -39,27 +39,6 @@
     "href": "maps.html",
     "title": "Maps",
     "section": "",
-    "text": "I really like making maps! I usually rely on QGIS and the sf package for R for creating them."
-  },
-  {
-    "objectID": "maps.html#brazil",
-    "href": "maps.html#brazil",
-    "title": "Maps",
-    "section": "Brazil",
-    "text": "Brazil\n\n\n\n\nSlavery and bureaucratic capacity in Brazil\n\n\n\n\n\nDeforestation and environmental protection in the Brazilian Amazon"
-  },
-  {
-    "objectID": "maps.html#colombia",
-    "href": "maps.html#colombia",
-    "title": "Maps",
-    "section": "Colombia",
-    "text": "Colombia\n\n\n\nTerrorism and coercive capacity in Colombia"
-  },
-  {
-    "objectID": "maps.html#bolivia",
-    "href": "maps.html#bolivia",
-    "title": "Maps",
-    "section": "Bolivia",
-    "text": "Bolivia\n\n\n\nElectoral outcomes and infrastructure investment in Bolivia"
+    "text": "I really like making maps! I usually rely on QGIS and the sf package for R for creating them.\n\n\n\n\n\n\nSlavery and bureaucratic capacity in Brazil\n\n\n\n\n\n\n\nTerrorism and coercive capacity in Colombia\n\n\n\n\n\n\n\n\n\nDeforestation and environmental protection in the Brazilian Amazon\n\n\n\n\n\n\n\nElectoral outcomes and infrastructure investment in Bolivia"
   }
 ]

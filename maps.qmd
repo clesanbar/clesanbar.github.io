@@ -4,27 +4,14 @@ title: "Maps"
 
 I really like making maps! I usually rely on QGIS and the `sf` package for R for creating them.
 
-:::: {.columns}
+::: {layout-ncol=2}
 
-:::{.column width="50%"}
-## Brazil
+![Slavery and bureaucratic capacity in Brazil](images_low_quality/maps_brazil_1.jpg)
 
+![Terrorism and coercive capacity in Colombia](images_low_quality/maps_colombia.jpg)
 
-::: {layout-nrows=2}
+![Deforestation and environmental protection in the Brazilian Amazon](images_low_quality/maps_brazil_2.jpg)
 
-![Slavery and bureaucratic capacity in Brazil](images_low_quality/maps_brazil_1.jpg){width=500 fig-align="left"}
-
-![Deforestation and environmental protection in the Brazilian Amazon](images_low_quality/maps_brazil_2.jpg){width=500 fig-align="left"}
-:::
+![Electoral outcomes and infrastructure investment in Bolivia](images_low_quality/maps_bolivia.jpg)
 
 :::
-
-:::{.column width="50%"}
-## Colombia
-![Terrorism and coercive capacity in Colombia](images_low_quality/maps_colombia.jpg){width=500 fig-align="right"}
-
-## Bolivia
-![Electoral outcomes and infrastructure investment in Bolivia](images_low_quality/maps_bolivia.jpg){width=500 fig-align="right"}
-
-:::
-::::
