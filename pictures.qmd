@@ -2,4 +2,20 @@
 title: "Pictures"
 ---
 
-(This section is under construction)
+Here are some pictures that I like from trips that I've taken.
+
+::::: {.column-screen-inset}
+::: {layout-ncol=2}
+![Dense canopy near Manaus, Brazil (2023)](images/picture_manaus_1.heic)
+
+![Deforested plot of land near Manaus, Brazil (2023)](images/picture_manaus_2.heic)
+
+![Olympic National Park, Washington (2023)](images/picture_olympic.heic)
+
+![Parque Nacional de los Picos de Europa, Spain (2022)](images/picture_spain.heic)
+
+![Acadia National Park, Maine (2022)](images/picture_acadia.heic)
+
+![Parque Nacional Cerro Castillo, Chile (2022)](images/picture_castillo.heic)
+:::
+:::::
