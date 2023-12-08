@@ -4,8 +4,6 @@ title: "Maps"
 
 I really like making maps! I usually rely on QGIS and the `sf` package for R for creating them.
 
-::::: {.column-screen-inset}
-
 :::: {.columns}
 
 :::{.column width="50%"}
@@ -14,20 +12,19 @@ I really like making maps! I usually rely on QGIS and the `sf` package for R for
 
 ::: {layout-nrows=2}
 
-![Slavery and bureaucratic capacity in Brazil](images/maps_brazil_1.png){width=600 fig-align="left"}
+![Slavery and bureaucratic capacity in Brazil](images_low_quality/maps_brazil_1.jpg){width=500 fig-align="left"}
 
-![Deforestation and environmental protection in the Brazilian Amazon](images/maps_brazil_2.png){width=600 fig-align="left"}
+![Deforestation and environmental protection in the Brazilian Amazon](images_low_quality/maps_brazil_2.jpg){width=500 fig-align="left"}
 :::
 
 :::
 
 :::{.column width="50%"}
 ## Colombia
-![Terrorism and coercive capacity in Colombia](images/maps_colombia.png){width=600 fig-align="right"}
+![Terrorism and coercive capacity in Colombia](images_low_quality/maps_colombia.jpg){width=500 fig-align="right"}
 
 ## Bolivia
-![Electoral outcomes and infrastructure investment in Bolivia](images/maps_bolivia.png){width=600 fig-align="right"}
+![Electoral outcomes and infrastructure investment in Bolivia](images_low_quality/maps_bolivia.jpg){width=500 fig-align="right"}
 
 :::
 ::::
-:::::

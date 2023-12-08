@@ -18,7 +18,7 @@ website:
         text: cv
       - href: pictures.qmd
         text: pictures
-  favicon: images/favicon.png
+  favicon: images_low_quality/favicon.png
   search: false
 
 format:
