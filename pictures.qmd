@@ -16,4 +16,13 @@ Here are some pictures that I like from trips that I've taken.
 ![Acadia National Park, Maine (2022)](images_low_quality/picture_acadia.jpeg)
 
 ![Parque Nacional Cerro Castillo, Chile (2022)](images_low_quality/picture_castillo.jpeg)
+
+![Parque Nacional Torres del Paine, Chile (2017)](images_low_quality/picture_torres_1.jpeg)
+
+![Parque Nacional Torres del Paine, Chile (2017)](images_low_quality/picture_torres_2.jpeg)
+
+![Rio Madre de Dios near Puerto Maldonado, Peru (2016)](images_low_quality/picture_peru_1.jpeg)
+
+![Dense canopy near Puerto Maldonado, Peru (2016)](images_low_quality/picture_peru_2.jpeg)
+
 :::
