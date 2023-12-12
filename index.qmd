@@ -1,7 +1,7 @@
 ---
 title: "Clemente T. Sánchez"
 description: "MIT Political Science"
-image: images_low_quality/official_photo.jpg
+image: images/official_photo.jpg
 about:
   template: trestles
   image-shape: rounded

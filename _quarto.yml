@@ -10,15 +10,15 @@ website:
     right:
       - href: index.qmd
         text: about
-      - href: research.qmd
+      - href: research/index.qmd
         text: research
-      - href: maps.qmd
+      - href: maps/index.qmd
         text: maps
       - href: cv/CV.pdf
         text: cv
-      - href: pictures.qmd
+      - href: pictures/index.qmd
         text: pictures
-  favicon: images_low_quality/favicon.png
+  favicon: images/favicon_32.png
   search: false
 
 format:
