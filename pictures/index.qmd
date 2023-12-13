@@ -7,7 +7,7 @@ Here are some pictures that I like from trips that I've taken.
 ::: {layout-ncol=2}
 ![Dense canopy near Manaus, Brazil (2023)](pictures_low_quality/picture_manaus_1.jpeg)
 
-![Deforested plot of land near Manaus, Brazil (2023)](pictures_low_quality/picture_manaus_2.jpeg)
+![Forest clearing near Manaus, Brazil (2023)](pictures_low_quality/picture_manaus_2.jpeg)
 
 ![Olympic National Park, Washington (2023)](pictures_low_quality/picture_olympic.jpeg)
 
