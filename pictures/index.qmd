@@ -5,9 +5,9 @@ title: "Pictures"
 Here are some pictures that I like from trips that I've taken.
 
 ::: {layout-ncol=2}
-![Dense canopy near Manaus, Brazil (2023)](pictures_low_quality/picture_manaus_1.jpeg)
+![Dense understory near Manaus, Brazil (2023)](pictures_low_quality/picture_manaus_1.jpeg)
 
-![Forest clearing near Manaus, Brazil (2023)](pictures_low_quality/picture_manaus_2.jpeg)
+![Nascient banana farm in forest clearing near Manaus, Brazil (2023)](pictures_low_quality/picture_manaus_2.jpeg)
 
 ![Olympic National Park, Washington (2023)](pictures_low_quality/picture_olympic.jpeg)
 
@@ -23,6 +23,6 @@ Here are some pictures that I like from trips that I've taken.
 
 ![Rio Madre de Dios near Puerto Maldonado, Peru (2016)](pictures_low_quality/picture_peru_1.jpeg)
 
-![Dense canopy near Puerto Maldonado, Peru (2016)](pictures_low_quality/picture_peru_2.jpeg)
+![Dense understory near Puerto Maldonado, Peru (2016)](pictures_low_quality/picture_peru_2.jpeg)
 
 :::
