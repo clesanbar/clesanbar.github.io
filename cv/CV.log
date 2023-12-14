@@ -1,7 +1,6 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.20)  25 NOV 2023 10:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.20)  14 DEC 2023 17:43
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **CV.tex
 (./CV.tex
@@ -393,10 +392,10 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 8547 strings out of 478994
- 125723 string characters out of 5858184
+ 8546 strings out of 478994
+ 125715 string characters out of 5858184
  440482 words of memory out of 5000000
- 25948 multiletter control sequences out of 15000+600000
+ 25947 multiletter control sequences out of 15000+600000
  408370 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,5n,74p,341b,350s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -408,7 +407,7 @@ sr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
 cal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/loc
 al/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/loca
 l/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on CV.pdf (2 pages, 105999 bytes).
+Output written on CV.pdf (2 pages, 105579 bytes).
 PDF statistics:
  52 PDF objects out of 1000 (max. 8388607)
  39 compressed objects within 1 object stream
