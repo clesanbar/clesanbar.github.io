@@ -1,18 +1,11 @@
 ---
 title: "Page Not Found"
+image: images/picture_404.jpg
+about:
+  template: trestles
 ---
-
-:::::: {.columns}
-::: {.column width="35%"}
 
 The page you requested cannot be found.
 
 Maybe it missed the forest for the trees 😉
 
-:::
-::: {.column width="60%"}
-
-![](images/picture_404.jpg)
-
-:::
-::::::
