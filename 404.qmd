@@ -3,11 +3,11 @@ title: "Page Not Found"
 ---
 
 :::::: {.columns}
-::: {.column width="40%"}
+::: {.column width="35%"}
 
 The page you requested cannot be found.
 
-Perhaps it was moved or renamed? Or maybe it missed the forest for the trees 😉
+Maybe it missed the forest for the trees 😉
 
 :::
 ::: {.column width="60%"}
