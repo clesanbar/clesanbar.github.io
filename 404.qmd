@@ -2,8 +2,9 @@
 title: "Page Not Found"
 image: images/picture_404.jpg
 about:
-  template: trestles
-  image-shape: rounded
+  template: jolla
+  image-shape: rectangle
+  image-width: 50%
 ---
 
 The page you requested cannot be found.
