@@ -2,10 +2,10 @@
 title: "Page Not Found"
 image: images/picture_404.jpg
 about:
-  template: trestles
+  template: jolla
 ---
 
 The page you requested cannot be found.
 
-Maybe it missed the forest for the trees 😉
+Perhaps it missed the forest for the trees 😉
 
