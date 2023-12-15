@@ -3,16 +3,16 @@ title: "Page Not Found"
 ---
 
 :::::: {.columns}
-::: {.column width="60%"}
-
-![Dense understory near Manaus, Brazil (2023)](images/picture_404.jpg)
-
-:::
 ::: {.column width="40%"}
 
 The page you requested cannot be found.
 
 Perhaps it was moved or renamed? Or maybe it missed the forest for the trees 😉
+
+:::
+::: {.column width="60%"}
+
+![](images/picture_404.jpg)
 
 :::
 ::::::
