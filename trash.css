@@ -1,0 +1,11 @@
+/* css styles */
+
+.nav-footer-center {
+  height: 20px;
+  margin-left:  -700px; 
+  margin-right:  -700px; 
+}
+
+.footer {
+    width: 200%;
+}
