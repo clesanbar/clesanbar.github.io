@@ -2,7 +2,7 @@
 title: "404 error"
 ---
 
-![](images/picture_404.jpg){fig-align="center"}
+![](https://www.clementesanchez.com/images/picture_404.jpg){fig-align="center"}
 
 # Whoops {style="text-align: center;"}
 
