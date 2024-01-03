@@ -1,17 +1,21 @@
-/* css styles */
+/* CUSTOM CCS STYLES */
 
+/* replaces the three part footer with a single width-wide footer */
 .nav-footer {
   display: block;
 }
 
+/* changes color of the navbar to be forest green */
 .navbar-dark {
   background-color: #248721;
 }
 
+/* changes color of hyperlinks to be forest green */
 a {
   color: #248721;
 }
 
+/* adds additional space between picture and navbar in about page, makes mobile view prettier */
 div.quarto-about-trestles .about-entity .about-image {
 margin-top: 1.5em;
 }
