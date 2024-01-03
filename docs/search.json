@@ -32,13 +32,13 @@
     "href": "pictures.html",
     "title": "Pictures",
     "section": "",
-    "text": "Here are some pictures that I like from trips that I’ve taken.\n\n\n\n\n\n\nAcadia National Park, Maine (2022)\n\n\n\n\n\n\n\nDense understory near Manaus, Brazil (2023)\n\n\n\n\n\n\n\n\n\nRio Madre de Dios near Puerto Maldonado, Peru (2016)\n\n\n\n\n\n\n\nNascient banana farm in forest clearing near Manaus, Brazil (2023)\n\n\n\n\n\n\n\n\n\nParque Nacional Torres del Paine, Chile (2017)\n\n\n\n\n\n\n\nOlympic National Park, Washington (2023)\n\n\n\n\n\n\n\n\n\nParque Nacional Cerro Castillo, Chile (2022)\n\n\n\n\n\n\n\nParque Nacional de los Picos de Europa, Spain (2022)\n\n\n\n\n\n\n\n\n\nGiant strangler fig near Manaus, Brazil (2023)\n\n\n\n\n\n\n\nParque Nacional Torres del Paine, Chile (2017)\n\n\n\n\n\n\n\n\n\nWhite Mountain National Forest, New Hampshire (2023)\n\n\n\n\n\n\n\nDense understory near Puerto Maldonado, Peru (2016)"
+    "text": "Here are some pictures that I like from trips that I’ve taken.\n\n\n\n\n\n\nAcadia National Park, Maine (2022)\n\n\n\n\n\n\n\nDense understory near Manaus, Brazil (2023)\n\n\n\n\n\n\n\n\n\nRio Madre de Dios near Puerto Maldonado, Peru (2016)\n\n\n\n\n\n\n\nNascent banana plantation in a forest clearing near Manaus, Brazil (2023)\n\n\n\n\n\n\n\n\n\nParque Nacional Torres del Paine, Chile (2017)\n\n\n\n\n\n\n\nOlympic National Park, Washington (2023)\n\n\n\n\n\n\n\n\n\nParque Nacional Cerro Castillo, Chile (2022)\n\n\n\n\n\n\n\nParque Nacional de los Picos de Europa, Spain (2022)\n\n\n\n\n\n\n\n\n\nGiant strangler fig near Manaus, Brazil (2023)\n\n\n\n\n\n\n\nParque Nacional Torres del Paine, Chile (2017)\n\n\n\n\n\n\n\n\n\nWhite Mountain National Forest, New Hampshire (2023)\n\n\n\n\n\n\n\nDense understory near Puerto Maldonado, Peru (2016)"
   },
   {
     "objectID": "maps.html",
     "href": "maps.html",
     "title": "Maps",
     "section": "",
-    "text": "I really like making maps! I usually rely on QGIS and the sf package for R for creating them.\n\n\n\n\n\n\nSlavery and bureaucratic capacity in Brazil\n\n\n\n\n\n\n\nTerrorism and coercive capacity in Colombia\n\n\n\n\n\n\n\n\n\nDeforestation and environmental protection in the Brazilian Amazon\n\n\n\n\n\n\n\nElectoral outcomes and infrastructure investment in Bolivia"
+    "text": "I really like making maps! I usually rely on QGIS and the sf package for R.\n\n\n\n\n\n\nSlavery and bureaucratic capacity in Brazil\n\n\n\n\n\n\n\nTerrorism and coercive capacity in Colombia\n\n\n\n\n\n\n\n\n\nDeforestation and environmental protection in the Brazilian Amazon\n\n\n\n\n\n\n\nElectoral outcomes and infrastructure investment in Bolivia"
   }
 ]
