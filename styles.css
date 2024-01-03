@@ -3,3 +3,11 @@
 .nav-footer {
   display: block;
 }
+
+.navbar-dark {
+  background-color: #248721;
+}
+
+a {
+  color: #248721;
+}
