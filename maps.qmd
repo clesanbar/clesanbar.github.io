@@ -4,14 +4,22 @@ title: "Maps"
 
 I really like making maps! I usually rely on QGIS and the sf package for R.
 
-::: {layout-ncol=2}
+::: {.panel-tabset}
 
-![Slavery and bureaucratic capacity in Brazil](maps_low_quality/maps_brazil_1.jpg)
+## Colombia
 
 ![Terrorism and coercive capacity in Colombia](maps_low_quality/maps_colombia.jpg)
 
+## Brazilian Amazon
+
 ![Deforestation and environmental protection in the Brazilian Amazon](maps_low_quality/maps_brazil_2.jpg)
 
+## Bolivia
+
 ![Electoral outcomes and infrastructure investment in Bolivia](maps_low_quality/maps_bolivia.jpg)
+
+## Brazil (historic)
+
+![Slavery and bureaucratic capacity in Brazil](maps_low_quality/maps_brazil_1.jpg)
 
 :::
