@@ -2,7 +2,7 @@
 title: "Pictures"
 ---
 
-Here are some pictures that I like from trips that I've taken.
+There is no such thing as Nature anymore. [Few, if any, regions can be characterized as pristine](https://doi.org/10.1073/pnas.1525200113). However, this does not mean that there is no Beauty left in the world. I like to photograph living things, both inside and outside the areas we have deemed worthy of Conservation. You can take a look at my [photostream](https://www.flickr.com/photos/199874827@N02), or check out a couple of samples below.
 
 ::: {layout-ncol=2}
 
@@ -10,9 +10,9 @@ Here are some pictures that I like from trips that I've taken.
 
 ![Dense understory near Manaus, Brazil (2023)](https://live.staticflickr.com/65535/53464123886_fac7bffcaa_z.jpg)
 
-![Rio Madre de Dios near Puerto Maldonado, Peru (2016)](pictures_low_quality/picture_peru_1.jpeg)
+![Rio Madre de Dios near Puerto Maldonado, Peru (2016)](https://live.staticflickr.com/65535/53464162486_ff0e4bff60_z.jpg)
 
-![Nascent banana plantation in a forest clearing near Manaus, Brazil (2023)](pictures_low_quality/picture_manaus_2.jpeg)
+![Nascent banana plantation in a forest clearing near Manaus, Brazil (2023)](https://live.staticflickr.com/65535/53464165571_27d1375156_z.jpg)
 
 ![Parque Nacional Torres del Paine, Chile (2017)](pictures_low_quality/picture_torres_1.jpeg)
 
