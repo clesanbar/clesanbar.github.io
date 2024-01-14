@@ -1,5 +1,0 @@
----
-title: "Hosted images"
----
-
-![](images/picture_404.jpg)

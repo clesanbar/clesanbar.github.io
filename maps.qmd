@@ -8,18 +8,18 @@ I really like making maps! I usually rely on QGIS and the sf package for R.
 
 ## Colombia
 
-![Terrorism and coercive capacity in Colombia](maps_low_quality/maps_colombia.jpg)
+![Terrorism and coercive capacity in Colombia](maps/maps_colombia.png)
 
 ## Brazilian Amazon
 
-![Deforestation and environmental protection in the Brazilian Amazon](maps_low_quality/maps_brazil_2.jpg)
+![Deforestation and environmental protection in the Brazilian Amazon](maps/maps_brazil_2.png)
 
 ## Bolivia
 
-![Electoral outcomes and infrastructure investment in Bolivia](maps_low_quality/maps_bolivia.jpg)
+![Electoral outcomes and infrastructure investment in Bolivia](maps/maps_bolivia.png)
 
 ## Brazil (historic)
 
-![Slavery and bureaucratic capacity in Brazil](maps_low_quality/maps_brazil_1.jpg)
+![Slavery and bureaucratic capacity in Brazil](maps/maps_brazil_1.png)
 
 :::
