@@ -2,7 +2,8 @@
 title: "404 error"
 ---
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/199874827@N02/53464047471/in/dateposted-public/" title="Cerro Castillo National Park, Chile"><img src="https://live.staticflickr.com/65535/53464047471_ce1cf6fcf4_k.jpg" alt="Cerro Castillo National Park, Chile"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+![](https://live.staticflickr.com/65535/53464047471_ce1cf6fcf4_k.jpg){fig-align="center"}
 
 # Whoops {style="text-align: center;"}
 
