@@ -5,9 +5,10 @@ title: "Pictures"
 Here are some pictures that I like from trips that I've taken.
 
 ::: {layout-ncol=2}
+
 [![Acadia National Park, Maine (2022)](https://live.staticflickr.com/65535/53463195882_90f1fd2a19_z.jpg)](https://www.flickr.com/photos/199874827@N02/53463195882/in/dateposted-public/)
 
-![Dense understory near Manaus, Brazil (2023)](pictures_low_quality/picture_manaus_1.jpeg)
+[![Dense understory near Manaus, Brazil (2023)](https://live.staticflickr.com/65535/53464123886_fac7bffcaa_z.jpg)](https://www.flickr.com/photos/199874827@N02/53464123886/in/dateposted-public/)
 
 ![Rio Madre de Dios near Puerto Maldonado, Peru (2016)](pictures_low_quality/picture_peru_1.jpeg)
 
