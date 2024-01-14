@@ -2,7 +2,7 @@
 title: "404 error"
 ---
 
-[![Cerro Castillo National Park, Chile (2022)](https://live.staticflickr.com/65535/53464047471_ce1cf6fcf4_k.jpg){fig-align="center"}](https://www.flickr.com/photos/199874827@N02/53464047471/in/dateposted-public/)
+![Cerro Castillo National Park, Chile (2022). [Original](https://flic.kr/p/2psrdDV)](https://live.staticflickr.com/65535/53464047471_ce1cf6fcf4_k.jpg){fig-align="center"}
 
 
 # Whoops {style="text-align: center;"}
