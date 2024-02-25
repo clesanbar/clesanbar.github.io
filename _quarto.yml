@@ -14,6 +14,8 @@ website:
         text: research
       - href: maps.qmd
         text: maps
+      - href: teaching.qmd
+        text: teaching
       - href: cv/CV.pdf
         text: cv
       - href: pictures.qmd
