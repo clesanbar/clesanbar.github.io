@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "maps.html",
+    "href": "maps.html",
+    "title": "Maps",
+    "section": "",
+    "text": "I really like making maps! I usually rely on QGIS and the sf package for R.\n\nColombiaBrazilian AmazonBoliviaBrazil (historic)\n\n\n\n\n\nTerrorism and coercive capacity in Colombia\n\n\n\n\n\n\n\nDeforestation and environmental protection in the Brazilian Amazon\n\n\n\n\n\n\n\nElectoral outcomes and infrastructure investment in Bolivia\n\n\n\n\n\n\n\nSlavery and bureaucratic capacity in Brazil"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Clemente T. Sánchez",
+    "section": "",
+    "text": "Hello there!\nI am a PhD student in the Department of Political Science at the Massachusetts Institute of Technology.\nMy main fields are Comparative Politics and Methodology. In particular, my research focuses on the relationship between environmental enforcement and state building, with a regional emphasis in Latin America. I also have ongoing interests in bureaucratic politics, causal inference, and state-society relations in frontier regions.\nI am the proud recipient of the Luksic Fellowship awarded by the Luksic Scholars Foundation.\nI received my BA in Political Science from the Pontificia Universidad Católica de Chile (PUC-Chile)."
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -21,24 +35,10 @@
     "text": "Published\nTwo paths towards the exceptional extension of national voting rights to non-citizen residents. (2023). with David Altman and Sergio Huertas-Hernández. Journal of Ethnic and Migration Studies, 49(10), pp. 2541-2560. DOI: 10.1080/1369183X.2023.2182713\n\nAbstract: Only five countries have extended universal voting rights to non-citizen residents for all political spheres (local, intermediate and national): Uruguay in 1934, New Zealand in 1975, Chile in 1980, Malawi in 1994, and Ecuador in 2008. These cases constitute a unique intercontinental medley and an opportunity to study the conditions behind such revolutionary change. Through a calibrated comparative strategy based on most similar system designs (inspired by Mill’s method of difference) using QCA, this paper finds that the extension of national voting rights to non-citizen residents transpired in two distinct scenarios. The first setting (Chile, New Zealand, and Uruguay) took place within unitary states with already-existing local voting rights for non-citizen residents and settler trajectories, but that were not undergoing a liberalisation process. On the other hand, the second configuration (Ecuador and Malawi) developed within unitary states that recognised nationality by ius soli and were going through a process of liberalisation, but without previous local voting rights for non-citizen residents or a settler trajectory. To our best knowledge, this paper offers the first cross-national explanation that involves all cases that have broadened their respective political communities (demoi) to include national voting rights to all non-citizen residents.\n\nCitizens at the polls: direct democracy in the world, 2020. (2021). with David Altman. Taiwan Journal of Democracy, 17(2), pp. 85-106.\n\nAbstract: There is suggestive evidence that the growth of democracy has stagnated, and even some signs indicate that democracy is in retreat. In such a context, one might have expected to witness an increase in experimentation with democratic innovations such as direct democracy. This is not the case. While there is a spectacular and statistically significant increase in the uses of mechanisms of direct democracy (MDDs) since the early 1990s, 2020 remained notably similar to the previous years in terms of the level of direct democracy worldwide. In 2019, we witnessed less than half of the MDDs we saw in 2018 (eighteen vs. fifty), but, in 2020, the count bounced back to thirty. The COVID-19 pandemic did not halt the march of direct democracy, although it delayed some of its events. Beyond the specific number of popular votes in 2020, direct democracy still tracks almost perfectly with global electoral democracy trends. When all was said and done, however, thirty MDDs were held in 2020: fourteen obligatory referendums (eight in Liberia, two in Chile, and one in Algeria, Italy, Palau, and Northern Cyprus, respectively), six plebiscites (two in New Zealand, two in Liechtenstein, one in Russia, and one in Guinea), five popular initiatives (four in Switzerland and one in Liechtenstein), and five rejective referendums (all in Switzerland)."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Clemente T. Sánchez",
-    "section": "",
-    "text": "Hello there!\nI am a PhD student in the Department of Political Science at the Massachusetts Institute of Technology.\nMy main fields are Comparative Politics and Methodology. In particular, my research focuses on the relationship between environmental enforcement and state building, with a regional emphasis in Latin America. I also have ongoing interests in bureaucratic politics, causal inference, and state-society relations in frontier regions.\nI am the proud recipient of the Luksic Fellowship awarded by the Luksic Scholars Foundation.\nI received my BA in Political Science from the Pontificia Universidad Católica de Chile (PUC-Chile)."
-  },
-  {
     "objectID": "pictures.html",
     "href": "pictures.html",
     "title": "Pictures",
     "section": "",
-    "text": "There has never been such a thing as untouched nature. Few, if any, regions can be characterized as pristine. However, this does not mean that there is no beauty in the world. I like to photograph living things, both inside and outside the areas we have deemed worthy of conservation. You can take a look at my photostream, or check out some samples below.\n\n\n\n\n\n\nTorres del Paine National Park, Chile (2017). Original\n\n\n\n\n\n\n\nAcadia National Park, Maine (2022). Original\n\n\n\n\n\n\n\n\n\nBanana plantation in a forest clearing near Manaus, Brazil (2023). Original\n\n\n\n\n\n\n\nOlympic National Park, Washington (2023). Original\n\n\n\n\n\n\n\n\n\nCerro Castillo National Park, Chile (2022). Original\n\n\n\n\n\n\n\nPicos de Europa National Park, Spain (2022). Original"
-  },
-  {
-    "objectID": "maps.html",
-    "href": "maps.html",
-    "title": "Maps",
-    "section": "",
-    "text": "I really like making maps! I usually rely on QGIS and the sf package for R.\n\nColombiaBrazilian AmazonBoliviaBrazil (historic)\n\n\n\n\n\nTerrorism and coercive capacity in Colombia\n\n\n\n\n\n\n\nDeforestation and environmental protection in the Brazilian Amazon\n\n\n\n\n\n\n\nElectoral outcomes and infrastructure investment in Bolivia\n\n\n\n\n\n\n\nSlavery and bureaucratic capacity in Brazil"
+    "text": "There has never been such a thing as unspoiled nature. Few, if any, regions can be characterized as pristine. But that does not mean that nature and wild(ish) things are not beautiful! We should try to capture this beauty while we can. You can take a look at my photostream, or check out some samples below.\n\n\n\n\n\n\n\n\n\nTorres del Paine National Park, Chile (2017). Original\n\n\n\n\n\n\n\nAcadia National Park, Maine (2022). Original\n\n\n\n\n\n\n\n\n\nBanana plantation in a forest clearing near Manaus, Brazil (2023). Original\n\n\n\n\n\n\n\nOlympic National Park, Washington (2023). Original\n\n\n\n\n\n\n\n\n\nCerro Castillo National Park, Chile (2022). Original\n\n\n\n\n\n\n\nPicos de Europa National Park, Spain (2022). Original"
   }
 ]
