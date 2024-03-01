@@ -16,7 +16,7 @@ website:
         text: maps
       - href: teaching.qmd
         text: teaching
-      - href: cv/CV.pdf
+      - href: CV.pdf
         text: cv
       - href: pictures.qmd
         text: pictures
